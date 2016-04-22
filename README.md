@@ -65,6 +65,7 @@ Resources
     - [Flask-Empty](https://github.com/italomaia/flask-empty)
     - [flask-rest-template](https://github.com/alexandre/flask-rest-template)
     - [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
+    - [GAEStarterKit](https://github.com/kkinder/GAEStarterKit) - Flask+authentication with UIKit for Google App Engine
 
 Plugins
 -------
